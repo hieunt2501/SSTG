@@ -1,0 +1,14 @@
+transformers
+python-Levenshtein
+tensorflow
+datasets==2.0.0
+edlib==1.3.9
+nltk
+pandas
+PyYAML
+regex
+rouge-score
+scikit-learn==0.22.2.post1
+tqdm
+ujson
+underthesea
